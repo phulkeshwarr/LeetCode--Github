@@ -1,1 +1,0 @@
-A prefix is a contiguous subArray starting at index 0
