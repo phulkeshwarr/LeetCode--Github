@@ -11,7 +11,6 @@ public:
                 seen[nums[j]] = true;
             }
             
-            // 3. Increment the global subarray count for these elements
             for (int x = 0; x <= 50; x++) {
                 if (seen[x]) {
                     sub_count[x]++;
