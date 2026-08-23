@@ -37,9 +37,9 @@
 
 ### 📊 Submission Statistics
 - **Language:** `cpp`
-- **Runtime:** `N/A`
-- **Memory:** `N/A`
-- **Submission Date:** Sun, 23 Aug 2026 17:44:37 GMT
+- **Runtime:** `1 ms` (Beats **36.58%**)
+- **Memory:** `23.1 MB` (Beats **6.32%**)
+- **Submission Date:** Sun, 23 Aug 2026 17:48:26 GMT
 
 ---
 *Auto-synced with [SyncCode Pro](https://github.com/pkmahto009/leetcode-github-sync) & [DSATracker](https://dsatracker.in)*
