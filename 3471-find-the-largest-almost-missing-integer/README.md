@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-largest-almost-missing-integer/?envType=daily-question&envId=2026-08-23">3471. Find the Largest Almost Missing Integer</a></h2><h3>Easy</h3><hr>
+<h2><a href="https://leetcode.com/problems/find-the-largest-almost-missing-integer/description/?envType=daily-question&envId=2026-08-23">3471. Find the Largest Almost Missing Integer</a></h2><h3>Easy</h3><hr>
 <div>
 <p>You are given an integer array <code>nums</code> and an integer <code>k</code>.</p>
 
@@ -75,8 +75,8 @@ A <strong>subarray</strong> is a contiguous sequence of elements within an array
 ### 📊 Submission Statistics
 - **Language:** `cpp`
 - **Runtime:** `N/A` (Beats **100%**)
-- **Memory:** `29.34 MB` (Beats **43.84%**)
-- **Submission Date:** Sun, 23 Aug 2026 19:26:14 GMT
+- **Memory:** `N/A`
+- **Submission Date:** Sun, 23 Aug 2026 19:29:35 GMT
 
 ---
 
@@ -91,6 +91,13 @@ A <strong>subarray</strong> is a contiguous sequence of elements within an array
 #### ⏱️ Complexity Analysis
 - **Time Complexity:** $\mathcal{O(N^2) or O(N \times M)}$ — *Nested iteration processing combinations or grid cells.*
 - **Space Complexity:** $\mathcal{O(N)}$ — *Auxiliary hash-based lookup structure storing up to N elements.*
+
+#### 📈 Big-O Complexity Graph
+```mermaid
+flowchart LR
+    A["O(1)"] --> B["O(log N)"] --> C["O(N)"] --> D["O(N log N)"] --> E["O(N²)"] --> F["O(2ᴺ)"]
+    style E fill:#10b981,stroke:#047857,stroke-width:3px,color:#ffffff
+```
 
 ---
 *Auto-synced with [SyncCode Pro](https://github.com/pkmahto009/leetcode-github-sync) & [DSATracker](https://dsatracker.in)*
