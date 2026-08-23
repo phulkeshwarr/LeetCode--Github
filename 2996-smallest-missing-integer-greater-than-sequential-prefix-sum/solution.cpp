@@ -8,18 +8,17 @@ public:
             if (nums[i] == nums[i - 1] + 1) {
                 prefixSum += nums[i];
             } else {
-                break; // Stop at the first non-sequential element
+                break; 
             }
         }
+
         unordered_set<int> numSet(nums.begin(), nums.end());
         
-        // 3. Find the smallest missing integer greater than or equal to 
-        prefixSum
+        // 3. Find the smallest missing integer greater than or equal to prefixSum
         while (numSet.count(prefixSum)) {
             prefixSum++;
         }
         
-
         return prefixSum;
     }
 };
