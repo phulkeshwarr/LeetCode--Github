@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-largest-almost-missing-integer/submissions/2117770791/?envType=daily-question&envId=2026-08-23">3471. Find the Largest Almost Missing Integer</a></h2><h3>Easy</h3><hr>
+<h2><a href="https://leetcode.com/problems/find-the-largest-almost-missing-integer/submissions/2117771669/?envType=daily-question&envId=2026-08-23">3471. Find the Largest Almost Missing Integer</a></h2><h3>Easy</h3><hr>
 <div>
 <p>You are given an integer array <code>nums</code> and an integer <code>k</code>.</p>
 
@@ -74,9 +74,9 @@ A <strong>subarray</strong> is a contiguous sequence of elements within an array
 
 ### 📊 Submission Statistics
 - **Language:** `cpp`
-- **Runtime:** `N/A` (Beats **100%**)
-- **Memory:** `N/A`
-- **Submission Date:** Sun, 23 Aug 2026 19:34:10 GMT
+- **Runtime:** `7 ms` (Beats **22.38%**)
+- **Memory:** `29.18 MB` (Beats **70.81%**)
+- **Submission Date:** Sun, 23 Aug 2026 19:35:43 GMT
 
 ---
 
@@ -89,14 +89,27 @@ A <strong>subarray</strong> is a contiguous sequence of elements within an array
   3. Return the calculated result satisfying problem criteria.
 
 #### ⏱️ Complexity Analysis
-- **Time Complexity:** $\mathcal{O(N^2) or O(N \times M)}$ — *Nested iteration processing combinations or grid cells.*
-- **Space Complexity:** $\mathcal{O(N)}$ — *Auxiliary hash-based lookup structure storing up to N elements.*
+- **Time Complexity:** $\mathcal{O}(N^2) \text{ or } \mathcal{O}(N \times M)$ — *Nested iteration processing combinations or grid cells.*
+- **Space Complexity:** $\mathcal{O}(N)$ — *Auxiliary hash-based lookup structure storing up to N elements.*
 
-#### 📈 Big-O Complexity Graph
+#### 📈 Time Complexity Graph (Operations vs Input Size $N$)
 ```mermaid
-flowchart LR
-    A["O(1)"] --> B["O(log N)"] --> C["O(N)"] --> D["O(N log N)"] --> E["O(N²)"] --> F["O(2ᴺ)"]
-    style E fill:#10b981,stroke:#047857,stroke-width:3px,color:#ffffff
+xychart-beta
+    title "Time Complexity: O(N²) — Quadratic Operations"
+    x-axis "Input Size (N)" [10, 100, 300, 600, 1000]
+    y-axis "Operations (Steps)" 0 --> 1000000
+    bar [100, 10000, 90000, 360000, 1000000]
+    line [100, 10000, 90000, 360000, 1000000]
+```
+
+#### 📦 Space Complexity Graph (Memory Footprint vs Input Size $N$)
+```mermaid
+xychart-beta
+    title "Space Complexity: O(N) — Linear Memory Allocation"
+    x-axis "Input Size (N)" [10, 100, 300, 600, 1000]
+    y-axis "Memory Footprint (Units)" 0 --> 1000
+    bar [10, 100, 300, 600, 1000]
+    line [10, 100, 300, 600, 1000]
 ```
 
 ---
