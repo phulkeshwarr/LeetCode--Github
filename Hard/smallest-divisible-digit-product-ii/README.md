@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/smallest-divisible-digit-product-ii/description/?envType=daily-question&envId=2026-08-23">3348. Smallest Divisible Digit Product II</a></h2><h3>Hard</h3><hr>
+<h2><a href="https://leetcode.com/problems/smallest-divisible-digit-product-ii/submissions/2117756720/?envType=daily-question&envId=2026-08-23">3348. Smallest Divisible Digit Product II</a></h2><h3>Hard</h3><hr>
 <div>
 <p>You are given a string <code>num</code> which represents a <strong>positive</strong> integer, and an integer <code>t</code>.</p>
 
@@ -61,7 +61,7 @@
 - **Language:** `cpp`
 - **Runtime:** `N/A`
 - **Memory:** `N/A`
-- **Submission Date:** Sun, 23 Aug 2026 19:13:58 GMT
+- **Submission Date:** Sun, 23 Aug 2026 19:14:58 GMT
 
 ---
 
