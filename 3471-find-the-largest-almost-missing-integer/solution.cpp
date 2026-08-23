@@ -4,11 +4,9 @@ public:
         int n = nums.size();
         vector<int> sub_count(51, 0);
         
-        // 1. Iterate through every starting index of a subarray of size k
         for (int i = 0; i <= n - k; i++) {
             vector<bool> seen(51, false);
             
-            // 2. Mark which elements are present in the current subarray
             for (int j = i; j < i + k; j++) {
                 seen[nums[j]] = true;
             }

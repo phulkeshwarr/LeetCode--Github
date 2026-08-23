@@ -76,7 +76,7 @@ A <strong>subarray</strong> is a contiguous sequence of elements within an array
 - **Language:** `cpp`
 - **Runtime:** `N/A` (Beats **100%**)
 - **Memory:** `29.34 MB` (Beats **43.84%**)
-- **Submission Date:** Sun, 23 Aug 2026 19:25:14 GMT
+- **Submission Date:** Sun, 23 Aug 2026 19:26:14 GMT
 
 ---
 
