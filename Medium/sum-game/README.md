@@ -10,7 +10,7 @@
 - **Language:** `cpp`
 - **Runtime:** `2 ms` (Beats **71.33%**)
 - **Memory:** `14.04 MB` (Beats **33.57%**)
-- **Solved At:** Sun, 23 Aug 2026 16:30:46 GMT
+- **Solved At:** Sun, 23 Aug 2026 16:35:34 GMT
 
 ---
 
