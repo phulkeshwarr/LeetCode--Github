@@ -8,9 +8,9 @@
 
 ## 📊 Submission Statistics
 - **Language:** `cpp`
-- **Runtime:** `N/A`
-- **Memory:** `N/A`
-- **Solved At:** Sun, 23 Aug 2026 16:30:29 GMT
+- **Runtime:** `2 ms` (Beats **71.33%**)
+- **Memory:** `14.04 MB` (Beats **33.57%**)
+- **Solved At:** Sun, 23 Aug 2026 16:30:46 GMT
 
 ---
 
