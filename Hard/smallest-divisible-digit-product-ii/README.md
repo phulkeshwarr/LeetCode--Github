@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/smallest-divisible-digit-product-ii/?envType=daily-question&envId=2026-08-23">3348. Smallest Divisible Digit Product II</a></h2><h3>Hard</h3><hr>
+<h2><a href="https://leetcode.com/problems/smallest-divisible-digit-product-ii/description/?envType=daily-question&envId=2026-08-23">3348. Smallest Divisible Digit Product II</a></h2><h3>Hard</h3><hr>
 <div>
 <p>You are given a string <code>num</code> which represents a <strong>positive</strong> integer, and an integer <code>t</code>.</p>
 
@@ -61,7 +61,21 @@
 - **Language:** `cpp`
 - **Runtime:** `N/A`
 - **Memory:** `N/A`
-- **Submission Date:** Sun, 23 Aug 2026 19:12:58 GMT
+- **Submission Date:** Sun, 23 Aug 2026 19:13:58 GMT
+
+---
+
+### 💡 Approach & Complexity Analysis
+#### 🧠 Intuition & Algorithmic Strategy
+- **Approach:** Calculates the longest sequential prefix sum and iteratively matches elements.
+- **Flow:**
+  1. Initialize state variables and inspect base constraints.
+  2. Iterate through input elements, maintaining current progress and boundaries.
+  3. Return the calculated result satisfying problem criteria.
+
+#### ⏱️ Complexity Analysis
+- **Time Complexity:** $\mathcal{O(N^2) or O(N \times M)}$ — *Nested iteration processing combinations or grid cells.*
+- **Space Complexity:** $\mathcal{O(N)}$ — *Auxiliary hash-based lookup structure storing up to N elements.*
 
 ---
 *Auto-synced with [SyncCode Pro](https://github.com/pkmahto009/leetcode-github-sync) & [DSATracker](https://dsatracker.in)*
