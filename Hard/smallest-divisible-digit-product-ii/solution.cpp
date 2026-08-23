@@ -6,8 +6,6 @@ class Solution {
     static void init() {
         if (initialized) return;
         initialized = true;
-        
-        // Initialize DP table with infinity-like values
         for (int i = 0; i < 50; ++i) {
             for (int j = 0; j < 35; ++j) {
                 dp_len[i][j] = 1000; 
