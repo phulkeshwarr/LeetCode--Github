@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/submissions/2117595177/?envType=daily-question&envId=2026-08-23">2996. Smallest Missing Integer Greater Than Sequential Prefix Sum</a></h2><h3>Easy</h3><hr>
+<h2><a href="https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/?envType=daily-question&envId=2026-08-23">2996. Smallest Missing Integer Greater Than Sequential Prefix Sum</a></h2><h3>Easy</h3><hr>
 <div>
 <p>You are given a <strong>0-indexed</strong> array of integers <code>nums</code>.</p>
 
@@ -39,7 +39,7 @@
 - **Language:** `cpp`
 - **Runtime:** `2 ms` (Beats **30.15%**)
 - **Memory:** `22.9 MB` (Beats **68.13%**)
-- **Submission Date:** Sun, 23 Aug 2026 16:54:32 GMT
+- **Submission Date:** Sun, 23 Aug 2026 16:55:32 GMT
 
 ---
 *Auto-synced with [SyncCode Pro](https://github.com/pkmahto009/leetcode-github-sync) & [DSATracker](https://dsatracker.in)*
