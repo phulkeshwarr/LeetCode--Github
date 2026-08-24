@@ -17,8 +17,6 @@ public:
                 }
             }
         }
-        
-        // 4. Find the largest integer that appears in exactly one subarray
         for (int x = 50; x >= 0; x--) {
             if (sub_count[x] == 1) {
                 return x;
