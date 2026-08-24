@@ -74,9 +74,9 @@ A <strong>subarray</strong> is a contiguous sequence of elements within an array
 
 ### 📊 Submission Statistics
 - **Language:** `cpp`
-- **Runtime:** `7 ms` (Beats **22.38%**)
-- **Memory:** `29.18 MB` (Beats **70.81%**)
-- **Submission Date:** Sun, 23 Aug 2026 19:35:43 GMT
+- **Runtime:** `7 ms` (Beats **22.36%**)
+- **Memory:** `29.18 MB` (Beats **70.78%**)
+- **Submission Date:** Mon, 24 Aug 2026 20:02:28 GMT
 
 ---
 
@@ -113,4 +113,4 @@ xychart-beta
 ```
 
 ---
-*Auto-synced with [SyncCode Pro](https://github.com/pkmahto009/leetcode-github-sync) & [DSATracker](https://dsatracker.in)*
+*Auto-synced with [LeetGitSyncPro](https://synccode-pro.pages.dev) & [DSATracker](https://dsatracker.in)*
