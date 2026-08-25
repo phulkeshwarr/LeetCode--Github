@@ -45,10 +45,9 @@
 | 1 | [Fractional Knapsack](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | `GEEKSFORGEEKS` | 🟢 `Easy` | `cpp` | 1115000ms / — | [📁 Solution & Notes](./fractional-knapsack/) | `GeeksforGeeks` `DSA` |
 | 2 | [Current submission](https://leetcode.com/problems/pair-sum/) | `LEETCODE` | 🟢 `Easy` | `cpp` | — / — | [📁 Solution & Notes](./pair-sum/) | `DSA` |
 | 3 | [2D Array - DS](https://leetcode.com/problems/2d-array/) | `LEETCODE` | 🟡 `Medium` | `cpp` | — / — | [📁 Solution & Notes](./2d-array/) | `DSA` |
-| 4 | [Fractional Knapsack | Practice | GeeksforGeeks](https://leetcode.com/problems/fractional-knapsack-practice-geeksforgeeks/) | `LEETCODE` | 🟡 `Medium` | `cpp` | — / — | [📁 Solution & Notes](./fractional-knapsack-practice-geeksforgeeks/) | `DSA` |
-| 5 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | `LEETCODE` | 🟢 `Easy` | `cpp` | — / — | [📁 Solution & Notes](./find-the-largest-almost-missing-integer/) | `DSA` |
-| 6 | [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | `LEETCODE` | 🔴 `Hard` | `cpp` | — / — | [📁 Solution & Notes](./smallest-divisible-digit-product-ii/) | `DSA` |
-| 7 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 2ms / 22.9MB | [📁 Solution & Notes](./smallest-missing-integer-greater-than-sequential-prefix-sum/) | `DSA` |
+| 4 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | `LEETCODE` | 🟢 `Easy` | `cpp` | — / — | [📁 Solution & Notes](./find-the-largest-almost-missing-integer/) | `DSA` |
+| 5 | [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | `LEETCODE` | 🔴 `Hard` | `cpp` | — / — | [📁 Solution & Notes](./smallest-divisible-digit-product-ii/) | `DSA` |
+| 6 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 2ms / 22.9MB | [📁 Solution & Notes](./smallest-missing-integer-greater-than-sequential-prefix-sum/) | `DSA` |
 
 ---
 
