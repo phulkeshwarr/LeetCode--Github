@@ -13,8 +13,6 @@ vector<vector<int>> pairSum(vector<int> &arr, int s){
             }
         }
     }
-    
-    // Sort the final list of pairs as required
     sort(result.begin(), result.end());
     return result;
 }
