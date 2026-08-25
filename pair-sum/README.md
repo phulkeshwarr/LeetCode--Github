@@ -1,17 +1,15 @@
-<h2><a href="https://www.naukri.com/code360/problems/pair-sum_697295?interviewProblemRedirection=true&leftPanelTabValue=SUBMISSION&customSource=studio_nav">Current submission</a></h2><h3>Easy</h3><hr>
+<h2><a href="https://www.naukri.com/code360/problems/pair-sum_697295?interviewProblemRedirection=true&leftPanelTabValue=SUBMISSION&customSource=studio_nav">Previous submissions</a></h2><h3>Medium</h3><hr>
 <div>
-<p>Solve the problem <strong>Current submission</strong> on <a href="https://www.naukri.com/code360/problems/pair-sum_697295?interviewProblemRedirection=true&leftPanelTabValue=SUBMISSION&customSource=studio_nav" target="_blank">Codestudio</a>.</p>
-<p>Refer to the <a href="https://www.naukri.com/code360/problems/pair-sum_697295?interviewProblemRedirection=true&leftPanelTabValue=SUBMISSION&customSource=studio_nav">original problem page</a> for full problem statement, test cases, and constraints.</p>
+<p><div _ngcontent-serverapp-c239="" class="problem-statement-title-container"><h2 _ngcontent-serverapp-c239="" class="problem-statement-title zen-typo-subtitle-small"> Problem statement </h2><ninjas-problems-ui-send-feedback-button _ngcontent-serverapp-c239="" _nghost-serverapp-c238=""><div _ngcontent-serverapp-c238=""><button _ngcontent-serverapp-c238="" zen-gray-underlined-text-cta="" size="small" class="zen-base-cta zen-gray-underlined-text-cta zen-cta-base zen-cta-small"><span class="zen-cta-wrapper"><span _ngcontent-serverapp-c238=""> Send feedback </span></span></button></div></ninjas-problems-ui-send-feedback-button></div><div _ngcontent-serverapp-c239="" class="zen-loading-container mt-12 ng-star-inserted"><div _ngcontent-serverapp-c239="" class="loading-block-sm zen-animate-rect"></div><div _ngcontent-serverapp-c239="" class="loading-block-md zen-animate-rect mt-12"></div></div><div _ngcontent-serverapp-c239="" class="zen-loading-container mt-12 ng-star-inserted"><div _ngcontent-serverapp-c239="" class="loading-block-sm zen-animate-rect"></div><div _ngcontent-serverapp-c239="" class="loading-block-md zen-animate-rect mt-12"></div></div><div _ngcontent-serverapp-c239="" class="zen-loading-container mt-12 ng-star-inserted"><div _ngcontent-serverapp-c239="" class="loading-block-sm zen-animate-rect"></div><div _ngcontent-serverapp-c239="" class="loading-block-md zen-animate-rect mt-12"></div></div><!----><!----><!----><!----></p>
 </div>
 
 <hr>
 
 ### 📊 Submission Statistics
 - **Language:** `cpp`
-- **Runtime:** `0 ms`
+- **Runtime:** `N/A`
 - **Memory:** `N/A`
-- **Test Cases:** `8 / 8 Passed`
-- **Submission Date:** Tue, 25 Aug 2026 17:56:36 GMT
+- **Submission Date:** Tue, 25 Aug 2026 17:59:03 GMT
 
 ---
 
