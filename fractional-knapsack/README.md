@@ -11,10 +11,11 @@
 
 ### 📊 Submission Statistics
 - **Language:** `cpp`
-- **Runtime:** `N/A`
+- **Runtime:** `1115s (1115000ms)`
 - **Memory:** `N/A`
+- **Test Cases:** `2/3 Passed`
 - **Accuracy:** `32.46%`
-- **Submission Date:** Tue, 25 Aug 2026 17:37:29 GMT
+- **Submission Date:** Tue, 25 Aug 2026 17:39:05 GMT
 
 ---
 
