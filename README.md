@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Total Solved](https://img.shields.io/badge/Total_Solved-5_Problems-2563eb?style=for-the-badge&logo=target&logoColor=white)](https://github.com/phulkeshwarr/LeetCode--Github)
+[![Total Solved](https://img.shields.io/badge/Total_Solved-6_Problems-2563eb?style=for-the-badge&logo=target&logoColor=white)](https://github.com/phulkeshwarr/LeetCode--Github)
 [![Easy](https://img.shields.io/badge/Easy-3_Solved-10b981?style=for-the-badge&logoColor=white)](https://github.com/phulkeshwarr/LeetCode--Github)
-[![Medium](https://img.shields.io/badge/Medium-1_Solved-f59e0b?style=for-the-badge&logoColor=white)](https://github.com/phulkeshwarr/LeetCode--Github)
+[![Medium](https://img.shields.io/badge/Medium-2_Solved-f59e0b?style=for-the-badge&logoColor=white)](https://github.com/phulkeshwarr/LeetCode--Github)
 [![Hard](https://img.shields.io/badge/Hard-1_Solved-ef4444?style=for-the-badge&logoColor=white)](https://github.com/phulkeshwarr/LeetCode--Github)
 [![Sync Engine](https://img.shields.io/badge/Sync_Engine-LeetGitSyncPro-6366f1?style=for-the-badge&logo=github)](https://synccode-pro.pages.dev)
 
@@ -17,24 +17,24 @@
 ## 📊 Overall Progress & Difficulty Breakdown
 
 ```text
-🟢 Easy:    [████████████░░░░░░░░]   3 Solved (60%)
-🟡 Medium:  [████░░░░░░░░░░░░░░░░]   1 Solved (20%)
-🔴 Hard:    [████░░░░░░░░░░░░░░░░]   1 Solved (20%)
+🟢 Easy:    [██████████░░░░░░░░░░]   3 Solved (50%)
+🟡 Medium:  [███████░░░░░░░░░░░░░]   2 Solved (33%)
+🔴 Hard:    [███░░░░░░░░░░░░░░░░░]   1 Solved (17%)
 ================================================================
-🏆 Total:   5 Unique Problems Solved & Documented
+🏆 Total:   6 Unique Problems Solved & Documented
 ```
 
 ### 🌐 Multi-Platform Solves Breakdown
-- 🟧 **LeetCode:** `4` Solved
-- 🟩 **HackerRank:** `0` Solved
+- 🟧 **LeetCode:** `5` Solved
+- 🟩 **HackerRank:** `1` Solved
 - 🟦 **Codeforces:** `0` Solved
-- 🟩 **GeeksforGeeks:** `1` Solved
+- 🟩 **GeeksforGeeks:** `0` Solved
 - 🔷 **InterviewBit:** `0` Solved
 - 🟧 **CodeStudio:** `0` Solved
 - 👨‍🍳 **CodeChef:** `0` Solved
 
 ### 🎯 Key Topic Tags
-`#Array` `#String` `#Dynamic-Programming` `#Tree` `#Graph` `#Binary-Search`
+`#HackerRank` `#Problem Solving` `#Data Structures` `#Arrays`
 
 ---
 
@@ -42,14 +42,15 @@
 
 | # | Problem Title | Platform | Difficulty | Language | Performance (Time / Mem) | Solution & Complexity | Topics |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| 1 | [Fractional Knapsack](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | `GEEKSFORGEEKS` | 🟢 `Easy` | `cpp` | — / — | [📁 Solution & Notes](./fractional-knapsack/) | `GeeksforGeeks` `DSA` |
-| 2 | [Fractional Knapsack | Practice | GeeksforGeeks](https://leetcode.com/problems/fractional-knapsack-practice-geeksforgeeks/) | `LEETCODE` | 🟡 `Medium` | `cpp` | — / — | [📁 Solution & Notes](./fractional-knapsack-practice-geeksforgeeks/) | `DSA` |
-| 3 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | `LEETCODE` | 🟢 `Easy` | `cpp` | — / — | [📁 Solution & Notes](./find-the-largest-almost-missing-integer/) | `DSA` |
-| 4 | [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | `LEETCODE` | 🔴 `Hard` | `cpp` | — / — | [📁 Solution & Notes](./smallest-divisible-digit-product-ii/) | `DSA` |
-| 5 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 2ms / 22.9MB | [📁 Solution & Notes](./smallest-missing-integer-greater-than-sequential-prefix-sum/) | `DSA` |
+| 1 | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true) | `HACKERRANK` | 🟡 `Medium` | `cpp` | — / — | [📁 Solution & Notes](./2d-array/) | `HackerRank` `Problem Solving` `Data Structures` |
+| 2 | [Fractional Knapsack](https://leetcode.com/problems/fractional-knapsack/) | `LEETCODE` | 🟢 `Easy` | `cpp` | — / — | [📁 Solution & Notes](./fractional-knapsack/) | `DSA` |
+| 3 | [Fractional Knapsack | Practice | GeeksforGeeks](https://leetcode.com/problems/fractional-knapsack-practice-geeksforgeeks/) | `LEETCODE` | 🟡 `Medium` | `cpp` | — / — | [📁 Solution & Notes](./fractional-knapsack-practice-geeksforgeeks/) | `DSA` |
+| 4 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | `LEETCODE` | 🟢 `Easy` | `cpp` | — / — | [📁 Solution & Notes](./find-the-largest-almost-missing-integer/) | `DSA` |
+| 5 | [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | `LEETCODE` | 🔴 `Hard` | `cpp` | — / — | [📁 Solution & Notes](./smallest-divisible-digit-product-ii/) | `DSA` |
+| 6 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 2ms / 22.9MB | [📁 Solution & Notes](./smallest-missing-integer-greater-than-sequential-prefix-sum/) | `DSA` |
 
 ---
 
 <div align="center">
-  <sub>Automated Portfolio generated by <a href="https://synccode-pro.pages.dev"><strong>LeetGitSyncPro</strong></a> • Last updated: Tue, 25 Aug 2026 17:42:35 GMT</sub>
+  <sub>Automated Portfolio generated by <a href="https://synccode-pro.pages.dev"><strong>LeetGitSyncPro</strong></a> • Last updated: Tue, 25 Aug 2026 17:45:15 GMT</sub>
 </div>
