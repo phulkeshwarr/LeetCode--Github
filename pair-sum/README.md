@@ -1,4 +1,4 @@
-<h2><a href="https://www.naukri.com/code360/problems/pair-sum_697295?interviewProblemRedirection=true&leftPanelTabValue=SUBMISSION&customSource=studio_nav">Current submission</a></h2><h3>Medium</h3><hr>
+<h2><a href="https://www.naukri.com/code360/problems/pair-sum_697295?interviewProblemRedirection=true&leftPanelTabValue=SUBMISSION&customSource=studio_nav">Current submission</a></h2><h3>Easy</h3><hr>
 <div>
 <p>Solve the problem <strong>Current submission</strong> on <a href="https://www.naukri.com/code360/problems/pair-sum_697295?interviewProblemRedirection=true&leftPanelTabValue=SUBMISSION&customSource=studio_nav" target="_blank">Codestudio</a>.</p>
 <p>Refer to the <a href="https://www.naukri.com/code360/problems/pair-sum_697295?interviewProblemRedirection=true&leftPanelTabValue=SUBMISSION&customSource=studio_nav">original problem page</a> for full problem statement, test cases, and constraints.</p>
@@ -11,7 +11,7 @@
 - **Runtime:** `0 ms`
 - **Memory:** `N/A`
 - **Test Cases:** `8 / 8 Passed`
-- **Submission Date:** Tue, 25 Aug 2026 17:53:24 GMT
+- **Submission Date:** Tue, 25 Aug 2026 17:56:36 GMT
 
 ---
 
