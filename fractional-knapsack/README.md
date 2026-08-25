@@ -1,20 +1,26 @@
 <h2><a href="https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1">Fractional Knapsack</a></h2><h3>Easy</h3><hr>
 <div>
-<p>Given two arrays, val[] and wt[] , representing the values and weights of items, and an integer capacity representing the maximum weight a knapsack can hold, determine the maximum total value that can be achieved by putting items in the knapsack. You are allowed to break items into fractions if necessary.<br>Return the maximum value as a double, rounded to 6 decimal places.</p>
-<p>Examples :</p>
-<p>Input: val[] = [60, 100, 120], wt[] = [10, 20, 30], capacity = 50<br>Output: 240.000000<br>Explanation: By taking items of weight 10 and 20 kg and 2/3 fraction of 30 kg. Hence total price will be 60+100+(2/3)(120) = 240</p>
-<p>Input: val[] = [500], wt[] = [30], capacity = 10<br>Output: 166.670000<br>Explanation: Since the item’s weight exceeds capacity, we take a fraction 10/30 of it, yielding value 166.670000.</p>
-<p>Constraints:<br>1 ≤ val.size = wt.size ≤ 105<br>1 ≤ capacity ≤ 109<br>1 ≤ val[i], wt[i] ≤ 104</p>
+<p><span style="font-size: 14pt;">Given two arrays, <strong>val[]&nbsp;</strong>and <strong>wt[]</strong> , representing the values and weights of items, and an integer capacity<strong> </strong>representing the maximum weight a knapsack can hold, determine the maximum total value that can be achieved by putting items in the knapsack. You are allowed to break items into fractions<strong> </strong>if necessary.</span><br><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size: 14pt;">Return the maximum<strong> </strong>value as a double, rounded to 6 decimal places.</span></p>
+<p><span style="font-size: 14pt;"><strong>Examples :</strong></span></p>
+<pre><span style="font-size: 14pt;"><strong>Input:</strong> val[] = [60, 100, 120], wt[] = [10, 20, 30], capacity = 50
+<strong>Output: </strong>240.000000<strong>
+Explanation: </strong>By taking items of weight 10 and 20 kg and 2/3 fraction of 30 kg. Hence total price will be 60+100+(2/3)(120) = 240
+</span></pre>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>val[] = [500], wt[] = [30], capacity = 10
+<strong>Output: </strong>166.670000<strong>
+Explanation: </strong>Since the item’s weight exceeds capacity, we take a fraction 10/30 <span class="katex"><span class="katex-mathml"><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">of it, yielding value 166.670000.</span></span></span></span></pre>
+<p><span style="font-size: 14pt;"><strong>Constraints:</strong><br>1 ≤ val.size = wt.size ≤ 10<sup>5</sup><br>1 ≤ capacity ≤ 10<sup>9</sup><br>1 ≤ val[i], wt[i] ≤ 10<sup>4</sup></span></p>
 </div>
 
 <hr>
 
 ### 📊 Submission Statistics
 - **Language:** `cpp`
-- **Runtime:** `N/A`
+- **Runtime:** `1115s (1115000ms)`
 - **Memory:** `N/A`
+- **Test Cases:** `2/3 Passed`
 - **Accuracy:** `32.46%`
-- **Submission Date:** Tue, 25 Aug 2026 17:42:35 GMT
+- **Submission Date:** Tue, 25 Aug 2026 18:08:56 GMT
 
 ---
 
