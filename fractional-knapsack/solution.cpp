@@ -24,7 +24,6 @@ public:
                 totalValue += val[idx];
                 capacity -= wt[idx];
             } else {
-                // If it can't hold the entire item, take the remaining fractional part
                 totalValue += ratio[i].first * capacity;
                 break; // The knapsack is now full
             }
