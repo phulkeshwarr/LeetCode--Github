@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/binary-search/">Binary Search</a></h2><h3>Easy</h3><hr>
+<h2><a href="https://leetcode.com/problems/binary-search/submissions/2122026114/">Binary Search</a></h2><h3>Easy</h3><hr>
 <div>
 <p>Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return -1.</p>
 <p>You must write an algorithm with O(log n) runtime complexity.</p>
@@ -16,7 +16,7 @@
 - **Language:** `cpp`
 - **Runtime:** `0 ms`
 - **Memory:** `31.43 MB` (Beats **31.43%**)
-- **Submission Date:** Thu, 27 Aug 2026 15:10:05 GMT
+- **Submission Date:** Thu, 27 Aug 2026 15:04:47 GMT
 
 ---
 
